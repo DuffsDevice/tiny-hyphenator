@@ -1,6 +1,7 @@
 # TINY-HYPHENATOR
 
-My quick shot at word hyphenation a.k.a syllable boundary detection. Use this library to achieve efficient and hopefully exact word hyphenations :D
+My quick shot at *Word Hyphenation* a.k.a *Syllable Boundary Detection*. Use this library to achieve efficient and hopefully exact word hyphenations. :wink:
+
 Currently the only language supported is German (with a rather high percentage (95%) of correct hyphenations), but it should easily be adaptable for other languages.
 This library spans ~370 lines of C++ code.
 
